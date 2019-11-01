@@ -1,0 +1,31 @@
+{
+  "name": "assorted-tools",
+  "version": "1.0.0",
+  "description": "A set of assorted tools to deal with AWS stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AchintyaAshok/aws-assorted-tools.git"
+  },
+  "keywords": [
+    "AWS",
+    "assorted",
+    "tools",
+    "dynamodb",
+    "kinesis",
+    "aws",
+    "sdk",
+    "tool",
+    "help",
+    "readme"
+  ],
+  "author": "Achintya Ashok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AchintyaAshok/aws-assorted-tools/issues"
+  },
+  "homepage": "https://github.com/AchintyaAshok/aws-assorted-tools#readme"
+}
